@@ -71,3 +71,5 @@ LIST_SERVICES(){
   fi
 
 }
+
+LIST_SERVICES
